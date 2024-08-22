@@ -6,9 +6,9 @@ I'm a results-oriented automation and integration specialist with over 4 years o
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python (4+ years), Go (current focus)
-- **Skills:** API Integrations, Workflow Automation, Customer Integration Projects
-- **Tools:** Docker, Git, CI/CD, RESTful APIs
+- **Programming Languages:** Python (4+ years), Go (current focus)
+- **Skills:** API Integrations, Scripting, Workflow Automation, Customer Integration Projects
+- **Tools:** Docker, Git, CI/CD, PostgreSQL, RESTful APIs
 
 ## 💼 Professional Experience
 
@@ -16,4 +16,4 @@ I'm a results-oriented automation and integration specialist with over 4 years o
 I have extensive experience in Python, where I've worked on various automation and integration projects. Python has been my go-to tool for creating robust, scalable solutions for a wide range of challenges.
 
 ### Go:
-Recently, I've shifted my main focus to Go. I'm excited about its performance capabilities
+Recently, I've shifted my main focus to Go. I'm excited about its performance capabilities and genius simplicity.
