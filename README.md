@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kirill 👋
 
-<!--
-**kirill-202/kirill-202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automation & Integration Specialist | Go Enthusiast
 
-Here are some ideas to get you started:
+I'm a results-oriented automation and integration specialist with over 4 years of experience in the field. I have a strong background in building and managing complex integration workflows and API integrations. My experience includes overseeing and executing customer integration projects, where I collaborate closely with cross-functional teams to deliver successful outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** Python (4+ years), Go (current focus)
+- **Skills:** API Integrations, Workflow Automation, Customer Integration Projects
+- **Tools:** Docker, Git, CI/CD, RESTful APIs
+
+## 💼 Professional Experience
+
+### Python: 
+I have extensive experience in Python, where I've worked on various automation and integration projects. Python has been my go-to tool for creating robust, scalable solutions for a wide range of challenges.
+
+### Go:
+Recently, I've shifted my main focus to Go. I'm excited about its performance capabilities
