@@ -6,9 +6,9 @@ I'm a results-oriented automation and integration specialist with over 4 years o
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python (4+ years), Go (current focus), Dart (current focus)
-- **Skills:** API Integrations, Scripting, Workflow Automation, Customer Integration Projects, Mobile Development
-- **Tools:** Docker, Git, CI/CD, PostgreSQL, RESTful APIs, Flutter, Android Studio
+- **Programming Languages:** Python (4+ years), Go (current focus), Javascript (current focus).
+- **Skills:** API Integrations, Scripting, Workflow Automation, Customer Integration Projects, Mobile Development, HTML, CSS, SQL.
+- **Tools:** Docker, Git, CI/CD, PostgreSQL, RESTful APIs, Flutter.
 
 ## 💼 Professional Experience
 
@@ -18,5 +18,5 @@ I have extensive experience in Python, where I've worked on various automation a
 ### Go:
 I've shifted my main focus to Go. I'm excited about its performance capabilities and genius simplicity.
 
-### Dart:
-My last passion is Dart, mostly because of its huge potential to build mobile apps and rich SDK.
+### Javascript:
+My last passion is Javascript since I'm now looking toward building not just backend but interfaces as well.
